@@ -746,7 +746,7 @@ footer {
 
 .prizes-header {
     margin-top: 3rem;
-    margin-bottom: 2rem;
+    margin-bottom: 0;
 }
 
 .prizes-header h2 {
